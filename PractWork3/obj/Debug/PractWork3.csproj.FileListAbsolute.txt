@@ -1,0 +1,11 @@
+C:\Для студентов\pks 91\PractWork3\PractWork3\obj\Debug\PractWork3.csproj.AssemblyReference.cache
+C:\Для студентов\pks 91\PractWork3\PractWork3\obj\Debug\PractWork3.csproj.SuggestedBindingRedirects.cache
+C:\Для студентов\pks 91\PractWork3\PractWork3\obj\Debug\PractWork3.encryptForm.resources
+C:\Для студентов\pks 91\PractWork3\PractWork3\obj\Debug\PractWork3.Properties.Resources.resources
+C:\Для студентов\pks 91\PractWork3\PractWork3\obj\Debug\PractWork3.csproj.GenerateResource.cache
+C:\Для студентов\pks 91\PractWork3\PractWork3\obj\Debug\PractWork3.csproj.CoreCompileInputs.cache
+C:\Для студентов\pks 91\PractWork3\PractWork3\bin\Debug\PractWork3.exe.config
+C:\Для студентов\pks 91\PractWork3\PractWork3\bin\Debug\PractWork3.exe
+C:\Для студентов\pks 91\PractWork3\PractWork3\bin\Debug\PractWork3.pdb
+C:\Для студентов\pks 91\PractWork3\PractWork3\obj\Debug\PractWork3.exe
+C:\Для студентов\pks 91\PractWork3\PractWork3\obj\Debug\PractWork3.pdb
